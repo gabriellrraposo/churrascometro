@@ -5,7 +5,11 @@
     text-decoration: none;
 }
 
+body {
+    padding: 1vh;
 
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 div {
     background-color: rgba(133, 221, 233, .50);
@@ -13,6 +17,8 @@ div {
     width: fit-content;
     padding: 1% 5%;
     margin: auto;
+
+    border-radius: 1.5%;
 }
 
 div h1 {
